@@ -1,7 +1,7 @@
 # MultiPlan+
 Dataset release paper: *EmbodiedAgent: A Scalable Hierarchical Approach to Overcome Practical Challenge in Multi-Robot Control*
 
-![figure](https://github.com/HaronW/MultiPlan_plus/blob/main/figure1.jpg)
+![figure1](./figure1.png)
 
 Training dataset: train_MultiPlan+.jsonl (available soon ...)
 
@@ -40,7 +40,7 @@ Data structure
 
 Visualization: distribution of the length of data samples in MultiPlan+
 
-![figure2](https://github.com/HaronW/MultiPlan_plus/blob/main/figure2.jpg)
+![figure2](./figure2.jpg)
 
 
 
