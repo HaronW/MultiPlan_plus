@@ -1,5 +1,5 @@
 # MultiPlan+
-Dataset release paper: *EmbodiedAgent: A Scalable Hierarchical Approach to Overcome Practical Challenge in Multi-Robot Control*
+Dataset release for paper: *EmbodiedAgent: A Scalable Hierarchical Approach to Overcome Practical Challenge in Multi-Robot Control*
 
 ![figure1](./figure1.png)
 
